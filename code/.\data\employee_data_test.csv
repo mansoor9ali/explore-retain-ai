@@ -1,0 +1,101 @@
+Employee Name,Employee ID,Gender,Age,Tenure,Role,Department,Starting Salary,Current Salary,Location,Contract,Years of Experience,Average Monthly Working Hours,Months in Role,Promotion History,Last Performance Review Score,Start Date,End Date,Turnover
+Susan Shields,1919,Male,28,6.7,Director,IT,40892,51514,Office-Based,Full-time,10,145,15,2,4,2018-05-17,,0
+Sarah Torres,5806,Male,24,2.1,Sales Manager,Sales,89086,124939,Office-Based,Full-time,4,135,24,1,4,2022-12-05,,0
+Courtney Parsons,6873,Female,65,0.1,Software Engineer,IT,82612,93487,Remote,Full-time,40,146,1,1,5,2014-04-01,2014-05-08,1
+John Roberts,7141,Female,55,13.9,Marketing Specialist,Marketing,88939,136133,Office-Based,Part-time,28,141,37,2,5,2011-02-23,,0
+Christopher Romero,8056,Female,22,1.7,Account Executive,Sales,40367,60803,Office-Based,Full-time,2,132,2,1,5,2023-04-27,,0
+Scott Livingston,3385,Female,28,1.3,Marketing Specialist,Marketing,81703,118347,Office-Based,Full-time,4,121,15,0,5,2022-12-16,2024-03-31,1
+Mr. Timothy Watts MD,5000,Female,40,13.7,Software Engineer,IT,90265,116693,Office-Based,Full-time,18,145,1,3,3,2011-05-19,,0
+Hannah Bennett,7751,Male,28,9.6,Software Engineer,IT,46705,55008,Office-Based,Full-time,10,169,20,3,4,2015-06-02,,0
+Aaron Lynch,3950,Female,61,8.2,Account Executive,Sales,91338,106531,Office-Based,Full-time,22,198,37,2,3,2016-11-28,,0
+Jaime Case,3785,Male,52,9.6,Sales Manager,Sales,73535,102350,Office-Based,Full-time,12,158,37,1,5,2015-06-02,,0
+Jennifer Baker,3868,Male,37,0.5,Marketing Specialist,Marketing,60431,94639,Office-Based,Full-time,13,197,3,1,5,2024-07-29,,0
+Taylor Mckenzie,2293,Male,62,4.4,Software Engineer,IT,68943,101061,Office-Based,Full-time,14,135,3,4,5,2020-08-25,,0
+Tanya Brown,4945,Female,63,8.2,Director,IT,83911,106585,Office-Based,Full-time,32,191,1,4,5,2016-10-29,,0
+Frederick Pena,9153,Male,46,0.1,Marketing Specialist,Marketing,74472,87244,Remote,Full-time,7,132,1,1,5,2024-12-04,,0
+Veronica Mitchell,3344,Female,54,1.4,Engineering Manager,IT,71374,97476,Remote,Full-time,4,152,6,1,4,2023-09-03,,0
+Miranda Henson,4804,Male,58,0.8,Marketing Manager,Marketing,51388,82415,Office-Based,Full-time,39,189,5,1,5,2024-03-22,,0
+Kathleen Jones,8555,Male,45,6.5,Account Executive,Sales,67497,75323,Remote,Full-time,12,127,19,2,4,2017-09-12,2024-03-24,1
+Amanda Leblanc,5161,Female,34,8.8,Director,IT,84039,104779,Office-Based,Full-time,9,195,4,3,5,2016-04-15,,0
+Sydney Cross,8529,Female,55,11.2,Account Executive,Sales,52644,102536,Office-Based,Full-time,25,130,14,1,4,2011-05-03,2022-07-14,1
+Parker Delgado,5183,Male,39,0.7,Marketing Specialist,Marketing,57941,94677,Office-Based,Full-time,6,192,8,0,4,2024-05-10,,0
+Nicholas Chambers,1153,Male,58,4.8,Sales Manager,Sales,87811,93474,Remote,Full-time,12,122,37,1,5,2020-04-10,,0
+Stacy Terrell,8622,Male,35,1.4,Marketing Specialist,Marketing,94873,139495,Office-Based,Part-time,4,144,16,0,4,2023-09-05,,0
+John Lopez DVM,5712,Male,41,0.8,Sales Manager,Sales,77030,97709,Office-Based,Full-time,6,154,3,1,5,2017-03-04,2017-12-12,1
+Barbara Butler,9955,Male,40,13.7,Marketing Manager,Marketing,63275,101200,Office-Based,Full-time,18,186,37,1,4,2010-03-04,2023-11-06,1
+David Freeman,3588,Male,24,4.4,Software Engineer,IT,77271,91076,Office-Based,Full-time,6,156,4,2,4,2020-09-14,,0
+Peter Reed,2210,Female,27,4.3,Marketing Manager,Marketing,57094,59154,Office-Based,Full-time,7,200,8,2,4,2020-09-19,,0
+John Rose,8237,Male,51,0.7,Marketing Specialist,Marketing,85959,92814,Office-Based,Full-time,25,121,8,0,1,2024-05-22,,0
+Tammy Calhoun,6661,Female,43,13.5,Marketing Specialist,Marketing,50665,81259,Office-Based,Full-time,16,176,17,3,5,2011-07-13,,0
+Steven Reid,5901,Female,59,8.9,Director,IT,55963,72515,Office-Based,Full-time,34,181,15,4,5,2016-02-16,,0
+Christine Stewart,7951,Female,24,4.0,Marketing Manager,Marketing,90729,108381,Office-Based,Full-time,5,123,11,4,3,2021-01-06,,0
+Catherine Kaufman,5097,Male,41,11.9,Director,IT,49145,57657,Office-Based,Full-time,15,126,1,5,5,2013-02-15,,0
+Robert Briggs,8484,Female,31,2.1,Marketing Manager,Marketing,40055,83217,Remote,Full-time,9,158,25,0,2,2022-12-16,,0
+Robert Reynolds,5949,Male,37,12.8,Sales Manager,Sales,84873,121268,Office-Based,Full-time,13,181,37,2,3,2012-04-20,,0
+Deborah Mcdaniel,4263,Male,52,7.7,Marketing Manager,Marketing,83806,108466,Office-Based,Full-time,30,132,18,2,4,2017-04-28,,0
+Jaime Waller,7302,Female,30,8.6,Software Engineer,IT,65811,100814,Remote,Full-time,11,195,9,4,3,2016-06-15,,0
+Samantha Thompson,8916,Male,37,11.7,Software Engineer,IT,89262,115357,Office-Based,Full-time,12,137,11,5,4,2013-05-30,,0
+Adam Davis,2747,Male,35,14.0,Engineering Manager,IT,51788,79687,Remote,Full-time,16,181,26,4,3,2011-01-09,,0
+Jesse Perez,4886,Female,33,1.6,Marketing Manager,Marketing,92837,98252,Office-Based,Full-time,15,171,19,0,4,2021-11-19,2023-07-06,1
+George Weaver,7248,Male,32,9.7,Engineering Manager,IT,69798,70557,Office-Based,Part-time,14,171,21,4,4,2015-05-15,,0
+Charles Hill,5847,Male,41,7.3,Director,IT,92587,122095,Office-Based,Full-time,11,162,12,5,5,2017-09-23,,0
+Cynthia Ruiz,5837,Female,29,2.3,Director,IT,84218,89461,Remote,Full-time,11,195,13,1,4,2022-09-28,,0
+Tanya Cox,1359,Female,49,1.6,Director,IT,72087,102249,Office-Based,Full-time,3,167,19,0,2,2012-04-13,2013-11-16,1
+Wendy Shelton,5497,Female,65,7.0,Sales Manager,Sales,59217,82605,Office-Based,Full-time,42,158,23,3,5,2012-12-24,2019-12-11,1
+Kelly Jenkins,1132,Male,44,1.6,Sales Manager,Sales,51484,56992,Office-Based,Full-time,25,138,10,1,5,2023-06-17,,0
+Alan Guerrero,1803,Female,39,6.4,Sales Manager,Sales,94104,142121,Office-Based,Full-time,18,125,8,5,3,2018-09-12,,0
+Jessica Davies,9138,Female,24,1.9,Software Engineer,IT,87539,92700,Office-Based,Full-time,2,158,19,1,4,2021-03-05,2023-01-17,1
+Mikayla Fernandez,5689,Male,33,4.9,Director,IT,99791,128196,Office-Based,Full-time,15,193,37,1,4,2020-02-18,,0
+David Hopkins,6772,Female,61,13.8,Marketing Specialist,Marketing,77574,108567,Remote,Part-time,36,155,37,1,5,2011-03-29,,0
+Allen Wallace,4588,Male,39,10.3,Sales Manager,Sales,84447,103119,Remote,Full-time,20,122,3,4,5,2014-09-18,,0
+Anne Thornton,4115,Male,39,1.1,Sales Manager,Sales,54734,55918,Office-Based,Full-time,12,198,13,0,2,2023-06-05,2024-07-18,1
+Geoffrey Wright,5106,Female,59,9.0,Marketing Manager,Marketing,71169,107715,Remote,Full-time,31,164,1,5,5,2016-01-17,,0
+Steven Gray,3240,Male,51,3.5,Engineering Manager,IT,51141,95245,Office-Based,Full-time,10,193,3,5,5,2021-08-01,,0
+Darren Flynn,2591,Female,57,4.4,Marketing Specialist,Marketing,59925,79049,Office-Based,Full-time,18,179,1,5,3,2020-09-16,,0
+Jordan Holt,1645,Male,61,0.6,Director,IT,58604,95070,Office-Based,Part-time,27,168,7,0,5,2024-05-31,,0
+Cory Clark,6061,Male,46,4.2,Sales Manager,Sales,53848,61098,Office-Based,Full-time,8,140,24,4,5,2020-10-28,,0
+Kevin Petersen,8222,Female,57,3.3,Marketing Specialist,Marketing,60932,84733,Office-Based,Full-time,30,160,1,5,5,2021-10-23,,0
+Matthew Horton,1546,Female,36,4.8,Marketing Specialist,Marketing,94141,123596,Remote,Full-time,17,171,16,4,4,2020-04-05,,0
+Javier Meyer,3153,Female,51,3.9,Marketing Manager,Marketing,78021,120822,Office-Based,Full-time,33,144,23,1,5,2021-03-02,,0
+Deborah Martinez,2476,Male,30,10.9,Software Engineer,IT,87982,114771,Office-Based,Full-time,11,151,8,5,3,2014-03-09,,0
+Lisa Perry,5835,Female,65,3.7,Director,IT,82868,108383,Office-Based,Full-time,5,140,5,5,4,2019-05-30,2023-01-25,1
+Sandra Freeman,6352,Male,33,10.9,Marketing Specialist,Marketing,44247,46271,Remote,Full-time,13,151,37,2,5,2014-02-26,,0
+Sean Long,3877,Female,37,1.1,Director,IT,79584,101293,Office-Based,Part-time,18,151,13,0,3,2023-12-10,,0
+Scott Moore,4289,Male,22,1.1,Director,IT,74063,104878,Office-Based,Full-time,4,173,9,1,5,2023-12-30,,0
+Alison Hoffman,3165,Male,60,6.3,Marketing Manager,Marketing,94247,141828,Remote,Full-time,8,125,3,4,4,2018-09-20,,0
+Cindy Brooks,6994,Female,49,8.2,Director,IT,94082,132080,Office-Based,Full-time,13,141,37,3,4,2016-11-07,,0
+Troy Martin,9697,Female,31,8.1,Account Executive,Sales,61628,103704,Office-Based,Full-time,10,182,29,3,5,2016-12-07,,0
+Peter Baxter,9221,Female,43,1.4,Engineering Manager,IT,56903,94142,Remote,Full-time,12,137,11,1,3,2022-08-30,2024-02-03,1
+Lucas Martin,5465,Female,23,0.4,Engineering Manager,IT,59085,79182,Office-Based,Full-time,5,159,4,1,4,2024-03-09,2024-08-04,1
+Luis Bennett,3695,Female,65,0.3,Sales Manager,Sales,79809,98967,Office-Based,Full-time,45,149,3,0,1,2019-09-22,2020-01-09,1
+Derrick Ramirez,5210,Male,59,12.1,Engineering Manager,IT,73331,122185,Office-Based,Full-time,21,181,37,3,5,2012-12-05,,0
+Joshua Brown,8894,Male,44,2.8,Marketing Manager,Marketing,96715,128516,Office-Based,Full-time,13,181,1,1,4,2022-03-22,,0
+Lisa Smith,6549,Female,22,3.1,Marketing Specialist,Marketing,53528,68228,Remote,Full-time,4,135,26,2,5,2021-12-29,,0
+Mr. Logan Lane,2886,Female,53,10.0,Director,IT,88906,123254,Office-Based,Full-time,31,166,37,1,5,2015-01-20,,0
+Lauren Campos,8673,Female,62,1.9,Marketing Specialist,Marketing,76260,111305,Office-Based,Full-time,34,130,23,0,5,2021-12-03,2023-11-02,1
+Cindy Phillips,2233,Male,50,11.4,Director,IT,88459,100431,Office-Based,Full-time,19,151,37,3,4,2013-08-24,,0
+Ashley Holmes,3306,Female,33,1.2,Account Executive,Sales,88700,101152,Office-Based,Part-time,6,136,9,1,5,2013-07-20,2014-09-23,1
+Dana Barnes,4696,Male,35,1.3,Account Executive,Sales,75188,78535,Office-Based,Full-time,17,145,8,1,4,2023-08-01,2024-11-04,1
+Jeremy Ramsey,7511,Female,27,6.7,Sales Manager,Sales,79209,111140,Remote,Full-time,9,175,6,5,5,2018-05-29,,0
+Cynthia Moss,6992,Male,50,7.8,Director,IT,69901,69933,Remote,Full-time,26,154,9,5,4,2017-04-01,,0
+Theresa Smith,2479,Male,43,1.5,Marketing Specialist,Marketing,96836,131713,Remote,Full-time,11,191,1,1,5,2023-07-17,,0
+Jennifer Davis,7464,Female,29,1.8,Marketing Specialist,Marketing,98547,131940,Office-Based,Full-time,9,128,22,0,4,2023-03-30,,0
+Luis Jackson,1228,Female,28,5.9,Director,IT,51970,64657,Office-Based,Full-time,8,147,10,5,4,2019-03-09,,0
+Laura Rivera,5332,Female,42,1.5,Software Engineer,IT,53781,91202,Office-Based,Full-time,5,144,7,1,5,2023-08-08,,0
+Nathan Gibson,9791,Male,32,1.7,Engineering Manager,IT,79008,106330,Office-Based,Full-time,7,153,12,1,4,2023-05-25,,0
+Austin Frye,3024,Female,45,1.6,Director,IT,88838,109504,Office-Based,Full-time,25,170,14,1,5,2023-06-12,2025-01-12,1
+Julian Willis,7038,Male,47,7.9,Marketing Manager,Marketing,90269,108239,Remote,Full-time,19,146,20,2,5,2014-10-27,2022-10-03,1
+Susan Dawson,5295,Female,40,14.3,Director,IT,65061,86405,Office-Based,Full-time,20,147,10,4,5,2010-10-04,,0
+Wendy Douglas,7242,Female,39,3.3,Engineering Manager,IT,71436,118704,Office-Based,Part-time,9,125,5,3,5,2021-05-22,2024-09-04,1
+Nancy Erickson,7086,Female,53,2.0,Account Executive,Sales,43677,85595,Office-Based,Full-time,27,176,24,0,5,2021-03-02,2023-03-20,1
+Robert Santana,2775,Male,52,10.0,Director,IT,88001,115118,Office-Based,Full-time,13,195,10,3,4,2012-12-04,2022-12-15,1
+Lisa Howell,4830,Male,57,2.5,Software Engineer,IT,74801,93899,Office-Based,Full-time,23,128,23,1,5,2021-05-22,2023-11-17,1
+Eric Melendez,8724,Female,45,9.7,Marketing Specialist,Marketing,70692,85613,Office-Based,Full-time,16,153,32,2,4,2015-05-17,,0
+Matthew Larsen,1410,Male,30,1.3,Director,IT,71873,75020,Office-Based,Full-time,8,185,15,1,4,2021-06-04,2022-09-12,1
+Xavier Maddox,6374,Female,24,3.3,Marketing Specialist,Marketing,77671,99543,Office-Based,Full-time,6,192,3,4,3,2021-10-17,,0
+Adam Hayes DDS,4626,Male,56,2.1,Software Engineer,IT,82609,95119,Office-Based,Full-time,8,175,17,1,5,2011-07-19,2013-09-08,1
+Laura Williams,2035,Female,50,0.5,Account Executive,Sales,51906,94362,Office-Based,Full-time,10,175,2,1,5,2024-07-17,,0
+Dillon Pearson Jr.,8606,Female,58,0.5,Account Executive,Sales,54760,75887,Office-Based,Full-time,25,148,6,0,3,2017-03-16,2017-09-20,1
+Craig Phillips,5951,Female,56,8.8,Marketing Specialist,Marketing,98539,145390,Office-Based,Full-time,15,138,11,5,4,2016-04-05,,0
+Jennifer Perez,7689,Male,28,3.0,Software Engineer,IT,62840,67379,Office-Based,Full-time,10,149,36,0,3,2015-04-30,2018-05-01,1
+Michael Smith,2911,Male,41,3.4,Director,IT,63287,65075,Remote,Full-time,11,176,6,2,3,2012-09-17,2016-01-25,1

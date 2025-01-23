@@ -1,1 +1,2 @@
 jupyterlab>3.0
+Faker==20.0.0
